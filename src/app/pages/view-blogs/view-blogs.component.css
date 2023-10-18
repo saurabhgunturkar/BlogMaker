@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    overflow-y: scroll;
+    background: #fff;
+}
+
+.content-wrapper{
+    display:flex;
+    flex-direction:column;
+    width: 40vw;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.title{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.content{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.author{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.comments{
+    display: flex;
+    flex-direction: column;
+}
+
+.uname{
+    font-size: 16px;
+    font-weight: 450;
+}

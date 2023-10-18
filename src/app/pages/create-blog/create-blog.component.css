@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    overflow-y: scroll;
+    background: #fff;
+}
+
+.content-wrapper{
+    display:flex;
+    flex-direction:column;
+    width: 40vw;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.post{
+    width: fit-content;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+
+
+    

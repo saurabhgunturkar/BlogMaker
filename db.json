@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "blogs": [
+    {
+      "author": "shruti",
+      "title": "develpoer",
+      "content": "<font face=\"Arial\">text</font>",
+      "comments": [
+        {
+          "username": "",
+          "comment": "hjhjj"
+        },
+        {
+          "username": "kjkljkjlkjkjl",
+          "comment": "bhhh"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "author": "What are the benefits of eating healthy?",
+      "title": "Saurabh",
+      "content": "<div class=\"css-1u22pos\"><div><p class=\"css-dmtxcr\">Following a healthy diet has many benefits, including building strong bones, protecting the heart, preventing disease, and boosting mood.</p></div><p>A healthy diet typically includes nutrient-dense foods from all of the major food groups, including lean proteins, whole grains, healthy fats, and fruits and vegetables of many colors. Healthy eating habits also include replacing foods that contain trans&#160;<a href=\"https://www.medicalnewstoday.com/articles/141442\" class=\"content-link css-1pg8eb5\">fats</a>, added&#160;<a href=\"https://post.medicalnewstoday.com/articles/146677\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">salt</a>, and&#160;<a href=\"https://post.medicalnewstoday.com/articles/324854\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">sugar</a>&#160;with more nutritious options.</p><div></div><p>Following a&#160;<a href=\"https://www.medicalnewstoday.com/articles/153998\" class=\"content-link css-1pg8eb5\">healthy diet</a>&#160;has many benefits, including building strong&#160;<a href=\"https://www.medicalnewstoday.com/articles/320444\" class=\"content-link css-1pg8eb5\">bones</a>, protecting the&#160;<a href=\"https://www.medicalnewstoday.com/articles/320565\" class=\"content-link css-1pg8eb5\">heart</a>, preventing disease, and boosting the mood.</p><p>This article discusses the top 10 benefits of a healthful diet and the evidence behind them.</p></div><div class=\"css-0\"><span></span><div><h2><div><a class=\"chartbeat-section\">Heart health</a></div></h2></div><div><figure class=\"css-yhe8zq\"><span class=\"css-rwmw5v\"><span class=\"css-mjp0j9\"><picture class=\"css-16pk1is\"><img src=\"https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/12/GettyImages-1247033916_header-1024x575.jpg?w=1155&amp;h=1528\" alt=\"A spread of healthful foods against wooden chopping boards and a gray, scrunched-up tablecloth. The foods are blueberries, bananas, spinach leaves, avocado, and apples, and a jug of milk.\" class=\"css-1jytyml\"></picture></span><a class=\"icon-hl-pinterest css-1ieaq17\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" title=\"Share on Pinterest\"><span class=\"css-8yl26h\">Share on Pinterest</span></a></span><figcaption class=\"css-1wtn3ae\">Oscar Wong/Getty Images</figcaption></figure></div><p>According to the&#160;<a href=\"https://www.cdc.gov/heartdisease/facts.htm\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">Centers for Disease Control and Prevention (CDC)<span class=\"css-1a8rnix icon-hl-trusted-source-after\"><span class=\"sro\">Trusted Source</span></span></a><span></span>, heart disease is the leading cause of death for adults in the United States.</p><p>The&#160;<a href=\"https://www.heart.org/en/news/2019/01/31/cardiovascular-diseases-affect-nearly-half-of-american-adults-statistics-show\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">American Heart Association (AHA)<span class=\"css-1a8rnix icon-hl-trusted-source-after\"><span class=\"sro\">Trusted Source</span></span></a><span></span>&#160;states that almost half of U.S. adults live with some form of cardiovascular disease.</p><p><a href=\"https://www.medicalnewstoday.com/articles/159283\" class=\"content-link css-1pg8eb5\">High blood pressure</a>, or hypertension, is a growing concern in the U.S. The condition can lead to a&#160;<a href=\"https://www.medicalnewstoday.com/articles/151444.php\" class=\"content-link css-1pg8eb5\">heart attack</a>, heart failure, and a&#160;<a href=\"https://www.medicalnewstoday.com/articles/7624.php\" class=\"content-link css-1pg8eb5\">stroke</a>.</p><p>It may be possible to prevent&#160;<a rel=\"noopener noreferrer\" href=\"http://www.heartandstroke.ca/get-healthy/healthy-eating\" target=\"_blank\" class=\"content-link css-1pg8eb5\">up to 80%</a>&#160;of premature heart disease and stroke diagnoses with lifestyle changes, such as increasing physical activity and healthful eating.</p><p>The foods people eat can reduce their blood pressure and help keep their hearts healthy.</p><p>The&#160;<a href=\"https://www.medicalnewstoday.com/articles/254836\" class=\"content-link css-1pg8eb5\">DASH diet</a>, or the Dietary Approaches to Stop Hypertension diet, includes plenty of heart healthy foods. The program&#160;<a href=\"https://www.nhlbi.nih.gov/health-topics/dash-eating-plan\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">recommends<span class=\"css-1a8rnix icon-hl-trusted-source-after\"><span class=\"sro\">Trusted Source</span></span></a><span></span>:</p><ul><li>eating plenty of&#160;<a href=\"https://www.medicalnewstoday.com/articles/323319\" class=\"content-link css-1pg8eb5\">vegetables</a>,&#160;<a href=\"https://www.medicalnewstoday.com/articles/324431\" class=\"content-link css-1pg8eb5\">fruits</a>, and whole grains</li><li>choosing fat-free or low fat&#160;<a href=\"https://www.medicalnewstoday.com/articles/326269\" class=\"content-link css-1pg8eb5\">dairy products</a>,&#160;<a href=\"https://www.medicalnewstoday.com/articles/323661\" class=\"content-link css-1pg8eb5\">fish</a>, poultry,&#160;<a href=\"https://www.medicalnewstoday.com/articles/320192\" class=\"content-link css-1pg8eb5\">beans</a>,&#160;<a href=\"https://www.medicalnewstoday.com/articles/323042\" class=\"content-link css-1pg8eb5\">nuts</a>, and vegetable oils</li><li>limiting saturated and trans fat intake, such as fatty meats and full-fat dairy products</li><li>limiting drinks and foods that contain added sugars</li><li>restricting sodium intake to less than 2,300 milligrams per day &#8212; ideally 1,500 mg daily &#8212; and increasing consumption of&#160;<a href=\"https://www.medicalnewstoday.com/articles/287212\" class=\"content-link css-1pg8eb5\">potassium</a>,&#160;<a href=\"https://www.medicalnewstoday.com/articles/286839\" class=\"content-link css-1pg8eb5\">magnesium</a>, and&#160;<a href=\"https://www.medicalnewstoday.com/articles/248958\" class=\"content-link css-1pg8eb5\">calcium</a></li></ul><p><a href=\"https://www.medicalnewstoday.com/articles/323133\" class=\"content-link css-1pg8eb5\">High-fiber foods</a>&#160;are also crucial for keeping the heart healthy.</p><p>The&#160;<a href=\"https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/whole-grains-refined-grains-and-dietary-fiber\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">AHA<span class=\"css-1a8rnix icon-hl-trusted-source-after\"><span class=\"sro\">Trusted Source</span></span></a><span></span>&#160;states that dietary fiber helps improve blood cholesterol and lowers the risk of heart disease, stroke,&#160;<a href=\"https://www.medicalnewstoday.com/articles/323551\" class=\"content-link css-1pg8eb5\">obesity</a>, and&#160;<a href=\"https://www.medicalnewstoday.com/articles/317462\" class=\"content-link css-1pg8eb5\">type 2 diabetes</a>.</p><p>The medical community has long recognized the&#160;<a href=\"https://www.nejm.org/doi/full/10.1056/NEJMra054035\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">link</a>&#160;between trans fats and heart-related illnesses, such as coronary heart disease.</p><p>Limiting certain types of fats can also improve heart health. For instance, eliminating trans fats reduces the levels of&#160;<a href=\"https://www.medicalnewstoday.com/articles/ldl-cholesterol\" class=\"content-link css-1pg8eb5\">low-density lipoprotein (LDL) cholesterol</a>. This type of cholesterol causes plaque to collect within the arteries, increasing the risk of a heart attack and stroke.</p><p>Reducing blood pressure can also promote heart health. Most adults may achieve this by limiting their salt intake to&#160;<a href=\"https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/how-much-sodium-should-i-eat-per-day\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"content-link css-1pg8eb5\">no more than 1,500 mg<span class=\"css-1a8rnix icon-hl-trusted-source-after\"><span class=\"sro\">Trusted Source</span></span></a><span></span>&#160;per day.</p><p>Food manufacturers add salt to many processed and fast foods, and a person who wishes to lower their blood pressure should avoid these products.</p><div class=\"\"><div><div><div class=\"css-1cg0byz\"><aside class=\"css-0 css-0\"><div><div class=\"css-9was16\"><div class=\"css-1hjaa0k\"></div><div class=\" css-itezwm\"></div></div></div></aside></div></div></div></div></div>",
+      "comments": [
+        {
+          "username": "shruti",
+          "comment": "great "
+        }
+      ],
+      "id": 2
+    },
+    {
+      "author": "alok",
+      "title": "developer",
+      "content": "<font face=\"Arial\">trial&#160;</font>",
+      "comments": [
+        {
+          "username": "lion",
+          "comment": "nice"
+        },
+        {
+          "username": "jam",
+          "comment": "jhgg"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="content-wrapper">
+        <button routerLink="/create" class="create" mat-raised-button color="warn" >Create Blog</button>
+
+        <div class="card" [routerLink]="'/view/' + i" *ngFor="let blog of blogService.blogsData, let i = index">
+            <div class="title">{{blog.title}}</div>
+            <div class="author">Written by {{blog.author}}</div>
+            <!-- <div class="content">Here is the content of the blog</div> -->
+        </div>
+
+        
+    </div>
+</div>
